@@ -27,11 +27,11 @@ You only need a modern web browser to run this application.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/book-library.git](https://github.com/your-username/book-library.git)
+    git clone [https://github.com/your-username/book-store.git](https://github.com/ngothehieu12/book-store.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd book-library
+    cd book-store
     ```
 3.  **Open `index.html`:** Simply open the `index.html` file in your preferred web browser.
 
@@ -51,5 +51,30 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-* **Your Name** - your.email@example.com
-* **Project Link:** [https://github.com/your-username/book-library](https://github.com/your-username/book-library)
+* **Your Name** - ngothehieu12@gmail.com
+* **Project Link:** [https://github.com/ngothehieu12/book-library](https://github.com/ngothehieu12/book-store)
+
+
+---
+
+## 🙏 Support the Project
+
+If this project has been helpful to you, please consider supporting its continued development. Your donation helps cover costs and allows me to dedicate more time to maintaining the project, fixing bugs, and adding new features.
+
+---
+
+### Ways to Donate
+
+| Platform | Link | Details |
+| :--- | :--- | :--- |
+| **PayPal** | ngothehieusan@gmail.com | A direct and simple way to send a one-time donation. |
+
+---
+
+### Why Donate?
+
+Your support is truly appreciated and helps in many ways:
+
+* **Maintenance:** Keeping projects up-to-date and ensuring compatibility.
+
+Thank you for your generosity!
