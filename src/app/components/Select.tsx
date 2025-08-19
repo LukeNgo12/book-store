@@ -23,9 +23,9 @@ export default function BasicSelect() {
                     label="Age"
                     onChange={handleChange}
                 >
-                    <MenuItem value={'english'}>English</MenuItem>
-                    <MenuItem value={'german'}>German</MenuItem>
-                    <MenuItem value={'vietnamese'}>Vietnamese</MenuItem>
+                    <MenuItem value={"english"}>English</MenuItem>
+                    <MenuItem value={"german"}>German</MenuItem>
+                    <MenuItem value={"vietnamese"}>Vietnamese</MenuItem>
                 </Select>
             </FormControl>
         </Box>

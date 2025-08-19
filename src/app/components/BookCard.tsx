@@ -34,13 +34,13 @@ export default function BasicCard() {
                 </Typography>
                 <Typography sx={{ color: 'text.secondary', mb: 1.5 }}>adjective</Typography>
                 <Typography variant="body2">
-                    Book's description
+                    Book&apos;s description
                     <br />
                     {'"a benevolent smile"'}
                 </Typography>
             </CardContent>
             <CardActions>
-                
+
                 <BasicSelect />
             </CardActions>
         </Card>
