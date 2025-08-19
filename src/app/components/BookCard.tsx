@@ -22,7 +22,7 @@ export default function BasicCard() {
         <Card sx={{ minWidth: 275 }}>
             <CardContent>
                 <Typography gutterBottom sx={{ color: 'text.secondary', fontSize: 14 }}>
-                    Book's Title
+                    Book&apos;s Title
                 </Typography>
                 <Typography variant="h5" component="div">
                     <Image
